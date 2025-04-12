@@ -25,3 +25,8 @@ Steps I followed to install, configure, and optimize Fedora Linux 41 on my HP Pr
 
 - Stable, modern, and fast
 - Used daily for Linux CLI, Bash, and Raspberry Pi practice
+
+---
+
+**Connect with me on LinkedIn**  
+[linkedin.com/in/carlos-semeao-04938a357](https://linkedin.com/in/carlos-semeao-04938a357)
